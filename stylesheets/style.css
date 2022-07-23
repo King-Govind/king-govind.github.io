@@ -326,7 +326,10 @@ ion-icon {
     content: "16";
   }
   60% {
-    content: "ambivert";
+    content: "introvert";
+  }
+  65% {
+    content: "introvert";
   }
   70% {
     content: "Boy";

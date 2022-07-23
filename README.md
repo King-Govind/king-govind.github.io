@@ -6,5 +6,3 @@ There are two files you need to worry about when you want to modify this page fo
 - `index.html` 
 
 If you have a dns, you can host this static site with GitHub pages in the settings.
-
-### Fork of https://github.com/MichaelDao/Minimal-Website-Template

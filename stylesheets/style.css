@@ -297,7 +297,7 @@ ion-icon {
   animation: spin 10.0s linear infinite;
 }
 
-@keyframes spin0 {
+@keyframes spin {
   0% {
     content: "Buddhist by Heart & Hindu by birth";
   }

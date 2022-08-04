@@ -288,6 +288,26 @@ ion-icon {
   background: #ff7700;
 }
 
+#spin0 {
+  color: purple;
+}
+
+#spin0:after {
+  content: "";
+  animation: spin 10.0s linear infinite;
+}
+
+@keyframes spin0 {
+  0% {
+    content: "Buddhist by Heart & Hindu by birth";
+  }
+  50% {
+    content: "Buddhist by Heart & Hindu by birth";
+  }
+  90% {
+    content: "Buddhist by Heart & Hindu by birth";
+  }
+}
 #spin {
   color: purple;
 }

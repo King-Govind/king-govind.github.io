@@ -294,12 +294,12 @@ ion-icon {
 
 #spinf:after {
   content: "";
-  animation: spin 10.0s linear infinite;
+  animation: spinf 10.0s linear infinite;
 }
 
 @keyframes spinf {
   0% {
-    content: "Buddhist by Heart & Hindu by birth";
+    content: "student";
   }
   50% {
     content: "Buddhist by Heart & Hindu by birth";

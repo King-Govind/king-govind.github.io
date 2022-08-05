@@ -299,13 +299,19 @@ ion-icon {
 
 @keyframes spinf {
   0% {
-    content: "Buddhist by Heart & Hindu by birth";
+    content: "Buddhist by Heart & a Hindu by birth";
   }
-  10% {
-    content: "Buddhist by Heart & Hindu by birth";
+  1% {
+    content: "Buddhist by Heart";
   }
-  20% {
-    content: "Buddhist by Heart & Hindu by birth";
+  2% {
+    content: "Hindu by birth";
+  }
+  30% {
+    content: "Buddhist by Heart & a Hindu by birth";
+  }
+  70% {
+    content: "Buddhist by Heart & a Hindu by birth";
   }
 }
 

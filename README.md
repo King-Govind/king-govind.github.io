@@ -1,8 +1,9 @@
-# Fork this project for yourself!
-Just change the name, image, and links.
+```
+        # Terms-Of-Service
+```
 
-There are two files you need to worry about when you want to modify this page for your own use.
-- `stylesheets/style.css`
-- `index.html` 
+ ###### • The Visitor confirms that he has entered correct informations. ######
 
-If you have a dns, you can host this static site with GitHub pages in the settings.
+
+ ###### • I'm not responsible for any fake submissions ######
+

@@ -299,20 +299,15 @@ ion-icon {
 
 @keyframes spinf {
   10% {
-    content: "Buddhist by Heart & a Hindu by birth";
+    content: "I'm A Staunch/Orthodox Atheist";
   }
-  11% {
-    content: "Buddhist by Heart";
+  40% {
+    content: " There is no God ";
   }
-  14% {
-    content: "Hindu by birth";
+  80% {
+    content: " Btw Fav Religion - Buddhism";
   }
-  25% {
-    content: "Buddhist by Heart & a Hindu by birth";
-  }
-  70% {
-    content: "Buddhist by Heart & a Hindu by birth";
-  }
+  
 }
 
 #spin {

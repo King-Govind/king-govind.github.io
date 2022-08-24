@@ -320,47 +320,47 @@ ion-icon {
 }
 
 @keyframes spin {
-  0% {
-    content: "student";
-  }
   10% {
-    content: "Allenite";
+    content: "A student";
+  }
+  15% {
+    content: " An  Allenite";
   }
   11% {
-    content: "ex-Vibrantian";
+    content: "An  ex-Vibrantian";
   }
   22% {
-    content: "ex-Vibrantian";
+    content: "An  ex-Vibrantian";
   }
   25% {
-    content: "ex-Davian";
+    content: "An  ex-Davian";
   }
   32% {
-    content: "ex-Davian";
+    content: "An  ex-Davian";
   }
   35% {
-    content: "ex-Vibrantian";
+    content: "An  ex-Vibrantian";
   }
   40% {
-    content: "Smart & lazy";
+    content: "A Smart & lazy";
   }
   50% {
     content: "16";
   }
   60% {
-    content: "introvert";
+    content: "An  introvert";
   }
   65% {
-    content: "introvert";
+    content: "An  introvert";
   }
   70% {
-    content: "Boy";
+    content: "A  Boy";
   }
  80% {
-    content: "NEET + UPSC Aspirant";
+    content: "A NEET + UPSC Aspirant";
   }
  90% {
-    content: "future ambidextrous";
+    content: "A  future ambidextrous";
   }
 }
 

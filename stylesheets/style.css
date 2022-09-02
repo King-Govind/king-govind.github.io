@@ -298,16 +298,12 @@ ion-icon {
 }
 
 @keyframes spinf {
-  10% {
+  50% {
     content: "I'm A Staunch/Orthodox Atheist";
   }
-  40% {
-    content: " There is no God ";
-  }
-  80% {
-    content: " Btw Fav Religion - Buddhism";
-  }
-  
+  90% {
+    content: "Indian";
+  } 
 }
 
 #spin {

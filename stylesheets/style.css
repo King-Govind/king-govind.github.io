@@ -289,7 +289,7 @@ ion-icon {
 }
 
 #spinf {
-  color: purple;
+  color: red;
 }
 
 #spinf:after {
@@ -299,10 +299,10 @@ ion-icon {
 
 @keyframes spinf {
   50% {
-    content: "I'm A Staunch/Orthodox Atheist";
+    content: "I'm A Staunch Atheist";
   }
   90% {
-    content: "Indian";
+    content: "An Indian";
   } 
 }
 

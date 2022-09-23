@@ -289,7 +289,7 @@ ion-icon {
 }
 
 #spinf {
-  color: red;
+  color: blue;
 }
 
 #spinf:after {
@@ -320,13 +320,13 @@ ion-icon {
     content: "A student";
   }
   15% {
-    content: " An  Allenite";
+    content: "A student";
   }
   20% {
-    content: "An  ex-Vibrantian";
+    content: "An Allenite ";
   }
   22% {
-    content: "An  ex-Vibrantian";
+    content: "An Allenite ";
   }
   25% {
     content: "An  ex-Davian";
@@ -334,11 +334,8 @@ ion-icon {
   32% {
     content: "An  ex-Davian";
   }
-  35% {
-    content: "An  ex-Vibrantian";
-  }
   50% {
-    content: "16";
+    content: "18";
   }
   60% {
     content: "An  introvert";
@@ -347,10 +344,7 @@ ion-icon {
     content: "An  introvert";
   }
  80% {
-    content: "A NEET  Aspirant";
-  }
- 90% {
-    content: "A  future ambidextrous";
+    content: "A JEE / IIT Aspirant";
   }
 }
 
